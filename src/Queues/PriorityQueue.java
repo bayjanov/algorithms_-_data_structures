@@ -32,7 +32,6 @@ public class PriorityQueue {
     public int size() {
         return count;
     }
-
     // Util methods
 
     public int shiftItemsToInsert(int item) {

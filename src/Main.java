@@ -1,6 +1,8 @@
 import java.util.Arrays;
 import java.util.LinkedList;
 
+import HashTables.HashTableMadeMain;
+import HashTables.HashTableMain;
 import LinkedList.LinkedListMain;
 import Queues.QueueMain;
 import Stacks.StackExp;
@@ -13,7 +15,9 @@ public class Main {
 //        StackExp.init();
 //        StackMain.initBaseArray();
 //        StackMain.initLinkedListStack();
-        QueueMain.init();
+//        QueueMain.init();
+//        HashTableMain.init();
+        HashTableMadeMain.init();
     }
 
 }
